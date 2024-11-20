@@ -4,14 +4,10 @@ title: About
 permalink: /about/
 ---
 
-姓名：王会卓
+## 王会卓个人简历
 
-## 教育背景
+截止到 2024.07
 
-2016.09-2020.06 山东大学数学学院 信息安全专业 理学学士
+![page 1.png](https://s2.loli.net/2024/11/20/trOaLIoZcBkMgA2.png)
 
-2020.09-2024.06 中国科学院信息工程研究所 网络空间安全专业 工学硕士
-
-## 工作经历
-
-2024.07-至今 泉城省实验室 技术保障
+![page 2.png](https://s2.loli.net/2024/11/20/HREsnkphbc6XPZa.png)
