@@ -19,7 +19,7 @@ favicon: https://raw.githubusercontent.com/Huizhuo-Wang/homepage/refs/heads/mast
 
 # 菜单中的按钮
 navigation:
-  - name: HomePage
+  - name: Homepage
     url: /
   - name: Blog Posts
     url: /posts
