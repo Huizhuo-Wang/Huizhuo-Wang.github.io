@@ -9,15 +9,10 @@ toc: true
 pinned: true
 ---
 
-> title: Threshold ring signature: generic construction and logarithmic size instantiation
->
-> date: 2024-07-11
->
-> venue: 'Cybersecurity'
->
-> paperurl: [https://link.springer.com/article/10.1186/s42400-024-00233-9](https://link.springer.com/article/10.1186/s42400-024-00233-9)
->
-> citation: Huizhuo Wang, Yang Tao and Rui Zhang. Threshold ring signature: generic construction and logarithmic size instantiation. Cybersecurity 7, 46 (2024). https://doi.org/10.1186/s42400-024-00233-9.
+> Title: Threshold ring signature: generic construction and logarithmic size instantiation  
+> Author: Huizhuo Wang, Yang Tao and Rui Zhang  
+> Journal: Cybersecurity 7, 46 (2024)  
+> Url: [https://link.springer.com/article/10.1186/s42400-024-00233-9](https://link.springer.com/article/10.1186/s42400-024-00233-9)  
 
 ## Abstract
 

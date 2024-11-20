@@ -42,30 +42,21 @@ footer-links:
   email: huizhuo0520@163.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
-  github: https://github.com/Huizhuo-Wang
+  github: Huizhuo-Wang
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
   rss: #随便填点啥RSS就能用了
   stackoverflow: # http://stackoverflow.com/<>
   tumblr: # https://<username>.tumblr.com
-  twitter: https://x.com/HuizhuoWang
-  youtube: https://www.youtube.com/@huizhuo0520
+  twitter: HuizhuoWang
+  youtube: huizhuo0520
 
 # 站点页脚的文字
 footer-text: A beginner in cryptography
 
-
-# 评论，注意，请不要同时添加多种不同的评论区
+# 评论区
 disqus: huizhuo-wang #shortname
-
-# 输入Gitalk相关设定，即可添加评论区，具体请看教程
-gitalk:
-  clientID: 
-  clientSecret: 
-  repo: 
-  owner: 
-  proxy:
 
 # 输入Google Analytics web tracking code
 google_analytics:
@@ -110,4 +101,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
