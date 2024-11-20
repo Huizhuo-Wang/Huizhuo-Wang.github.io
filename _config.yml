@@ -22,7 +22,7 @@ navigation:
   - name: HomePage
     url: /
   - name: Blog Posts
-    url: /archive
+    url: /posts
   - name: About
     url: /about
   - name: Tags
