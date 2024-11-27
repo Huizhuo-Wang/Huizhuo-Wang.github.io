@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-## 王会卓个人简历
+## 简历
 
-截止到 2024.07
+王会卓，密码学初学者。
 
-![page 1.png](https://s2.loli.net/2024/11/20/trOaLIoZcBkMgA2.png)
+## 版权声明
 
-![page 2.png](https://s2.loli.net/2024/11/20/HREsnkphbc6XPZa.png)
+博客文章是我原创文章，存档于_posts 文件夹下，版权归我所有，转载请与我联系获得授权许可。

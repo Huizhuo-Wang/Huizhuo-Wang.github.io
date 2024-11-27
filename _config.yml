@@ -1,21 +1,19 @@
 # 这个文档包含了本博客的设定信息，你可以编辑它来个性化自己的博客，
 
-# 描述/签名
+# ----------------------------------------------------------------------------------------
+# 基本信息
+# ----------------------------------------------------------------------------------------
+
 name: Huizhuo Wang
 description: A beginner in cryptography
 
-# 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
-url: 
+# 博客的域名和二级域名
+# url: 
+# baseurl: /homepage
 
-# 博客的二级域名
-baseurl: /homepage
-
-# 你的博客logo图片URL，建议尺寸不超过300px × 300px
+# 博客 logo 和 favicon
 avatar: https://raw.githubusercontent.com/Huizhuo-Wang/homepage/refs/heads/master/images/logo.jpg
-
-# 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://raw.githubusercontent.com/Huizhuo-Wang/homepage/refs/heads/master/images/favicon.jpg
-
 
 # 菜单中的按钮
 navigation:
@@ -28,45 +26,49 @@ navigation:
   - name: Tags
     url: /tags
 
-# 每页的文章数
-paginate: 10
+paginate: 8     # 每页的文章数
+excerpt_separator: <!-- more -->    # 文章简介的区分标记
 
-# 文章简介的区分标记
-excerpt_separator: <!-- more -->
-
-# 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
-footer-links: 
-  weibo:  #请输入你的微博个性域名 https://www.weibo.com/<thispart>
-  behance: # https://www.behance.net/<>
-  dribbble: # https://dribbble.com/<>
+footer-links:     # 社交网络链接，出现在页脚
+  weibo:
+  behance:
+  dribbble:
   email: huizhuo0520@163.com
-  facebook: #https://www.facebook.com/<>
-  flickr: #https://www.flickr.com/<>
+  facebook:
+  flickr:
   github: Huizhuo-Wang
-  instagram: #https://instagram.com/<>
-  linkedin: #https://www.linkedin.com/in/<>
-  pinterest: #https://www.pinterest.com/<>
-  rss: #随便填点啥RSS就能用了
-  stackoverflow: # http://stackoverflow.com/<>
-  tumblr: # https://<username>.tumblr.com
+  instagram:
+  linkedin:
+  pinterest:
+  rss:
+  stackoverflow:
+  tumblr:
   twitter: HuizhuoWang
   youtube: huizhuo0520
 
-# 站点页脚的文字
-footer-text: A beginner in cryptography
+footer-text: A beginner in cryptography # 页脚文字
 
-# 评论区
-disqus: huizhuo-wang #shortname
+# ----------------------------------------------------------------------------------------
+# 评论区、流量统计
+# ----------------------------------------------------------------------------------------
 
-# 输入Google Analytics web tracking code
-google_analytics:
+# disqus: huizhuo-wang #shortname # 与 gitalk 二选一
+
+gitalk:
+  clientID: Ov23liAJedKruDTHVgrF
+  clientSecret: 70c72cbfc537afbe16fa199772d0b98ef75c0e9e 
+  repo: homepage
+  owner: Huizhuo-Wang
+
+# Google Analytics 
+google_analytics: 9989910806
 
 utteranc:
   repo: # Your github repo path, also see: https://utteranc.es
 
-#
-# !! 以下所有设置都不需要更改 !!
-#
+# ----------------------------------------------------------------------------------------
+# 下面不要修改
+# ----------------------------------------------------------------------------------------
 
 permalink: /:title/
 paginate_path: /page:num/
