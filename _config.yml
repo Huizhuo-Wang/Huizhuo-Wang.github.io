@@ -52,13 +52,13 @@ footer-text: A beginner in cryptography # 页脚文字
 # 评论区、流量统计
 # ----------------------------------------------------------------------------------------
 
-# disqus: huizhuo-wang #shortname # 与 gitalk 二选一
+disqus: huizhuo-wang #shortname # 与 gitalk 二选一
 
-gitalk:
-  clientID: Ov23liAJedKruDTHVgrF
-  clientSecret: 70c72cbfc537afbe16fa199772d0b98ef75c0e9e 
-  repo: huizhuo-wang.github.io
-  owner: Huizhuo-Wang
+# gitalk:
+#   clientID: Ov23liAJedKruDTHVgrF
+#   clientSecret: 70c72cbfc537afbe16fa199772d0b98ef75c0e9e 
+#   repo: huizhuo-wang.github.io
+#   owner: Huizhuo-Wang
 
 # Google Analytics 
 google_analytics: 9989910806
